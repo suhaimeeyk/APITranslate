@@ -18,7 +18,7 @@
         CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
         CURLOPT_CUSTOMREQUEST => "GET",
         CURLOPT_HTTPHEADER => array(
-            "Apikey: cTAfAvbmoBdzmEYTUAco602cw4v0FMkq"
+            "Apikey: xxxxxxx" #key bro
         )
         ));
 
